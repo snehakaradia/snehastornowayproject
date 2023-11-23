@@ -1,0 +1,78 @@
+
+        /*---Header---*/
+        .header-login {
+            height: 223px;
+            width: 1517px;
+            background: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/stornowayj2oil/careers_image-A1aVe4Kez7SGOD2P.png);
+            background-size: 1517px;
+
+        }
+
+#eml-login{
+    width: 100%;
+margin-top: 5px;
+margin-left: 22px;
+display: inline-block;
+border: none;
+background: #f1f1f1;
+height: 45px;
+width: 540px;
+font-size: 15px;
+}
+#eml-login:focus{
+    background-color: #ddd;
+outline: none;
+}
+.container1-login hr {
+border: 1px solid #f1f1f1;
+margin-bottom: 25px;
+}
+.con1-login button {
+background-color: #04AA6D;
+color: white;
+padding: 14px 20px;
+margin: 8px 0;
+border: none;
+cursor: pointer;
+width: 100%;
+opacity: 0.9;
+}
+
+.con1-login button:hover {
+opacity:1;
+}
+.cancelbtn {
+padding: 14px 20px;
+background-color: #f44336;
+}
+.signupbtn-login {
+float: left;
+width: 25%;
+}
+.container1-login {
+padding: 16px;
+}
+.form-login{
+margin-top: 100px;
+border: 1px solid #ccc;
+width: 600px;
+margin-left: 450px;
+height: 420px;
+border:1px solid #ccc
+}
+.con1-login{
+margin-left: 193px;
+}
+.con2-login{
+margin-top: 25px;
+}
+.container3{
+margin-left: 170px;
+}
+
+
+
+#remember{
+    margin-bottom:15px; 
+    width: 25px;
+}

@@ -1,0 +1,124 @@
+/*---Header---*/
+.header-career {
+    height: 589px;
+    width: 1517px;
+    background: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/stornowayj2oil/careers_image-A3QyB0Q115ck0Kb2.png);
+    background-size: 1517px;
+
+}
+
+.header-career .heading-career{
+    padding-left: 150px;
+padding-top: 400px;
+color: #ffffff;
+font-size: 104px;
+font-family: 'Hammersmith One', sans-serif;
+font-weight: 400;
+}
+
+/* container1 */
+
+.container1-career{
+    height: 1488px;
+    display: grid;
+    padding-top: 200px;
+padding-left: 150px;
+}
+
+.cont11-career{
+    font-size: 48px;
+    font-weight: 400;
+    color: #000000;
+    font-family: 'Hammersmith One', sans-serif;
+}
+
+.cont2-career{
+    display: grid;
+    margin-top: -140px;
+}
+.cont21-career{
+    font-size: 64px;
+    font-weight: 500;
+    color: #000000;
+    font-family: 'Hammersmith One', sans-serif;
+}
+
+.cont22-career{
+    font-size: 30px;
+    font-weight: 400;
+    font-family: 'Hammersmith One', sans-serif;
+    margin-top: -90px;
+}
+
+.cont2-career a{
+    color: #000000;
+    text-decoration: underline;
+}
+
+.cont23-career{
+    font-size: 24px;
+    font-weight: 400;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: -120px;
+}
+
+.cont3-career{
+    display: grid;
+}
+.cont31-career{
+    font-size: 64px;
+    font-weight: 500;
+    color: #000000;
+    font-family: 'Hammersmith One', sans-serif;
+}
+
+.cont32-career{
+    font-size: 30px;
+    font-weight: 400;
+    font-family: 'Hammersmith One', sans-serif;
+    margin-top: -80px;
+}
+
+.cont3-career a{
+    color: #000000;
+    text-decoration: underline;
+}
+
+.cont33-career{
+    font-size: 24px;
+    font-weight: 400;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: -100px;
+}
+
+.cont4-career{
+    display: grid;
+}
+.cont41-career{
+    font-size: 64px;
+    font-weight: 500;
+    color: #000000;
+    font-family: 'Hammersmith One', sans-serif;
+}
+
+.cont42-career{
+    font-size: 30px;
+    font-weight: 400;
+    font-family: 'Hammersmith One', sans-serif;
+    margin-top: -80px;
+}
+
+.cont4-career a{
+    color: #000000;
+    text-decoration: underline;
+}
+
+.cont43-career{
+    font-size: 24px;
+    font-weight: 400;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: -104px;
+}

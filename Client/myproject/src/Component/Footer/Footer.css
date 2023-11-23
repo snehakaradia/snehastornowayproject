@@ -1,0 +1,33 @@
+ /* footer */
+ footer{
+    background-color: #000000;
+   
+    color: white;
+}
+.foot{
+    height: 432px;
+display: flex;
+justify-content: space-between;
+padding-left: 150px;
+padding-right: 200px;
+padding-top: 150px;
+}
+.span{
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+}
+.f1{
+    display: grid;
+font-size: 17px;
+width: 184px;
+}
+.f1 p{
+    font-size: 16px;
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+}
+.heart{
+    font-size: 17px;
+    margin-left: 635px;
+}

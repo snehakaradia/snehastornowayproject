@@ -1,0 +1,222 @@
+/*---Header---*/
+.header-construction {
+    height: 223px;
+    width: 1517px;
+    background: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/stornowayj2oil/careers_image-A1aVe4Kez7SGOD2P.png);
+    background-size: 1517px;
+
+}
+
+.container1-construction{
+    height: 1500px;
+    display: grid;
+    padding-top: 200px;
+padding-left: 150px;
+}
+.h1-construction{
+    font-size: 48px;
+    color: #000000;
+    font-family: 'Hammersmith One', sans-serif;
+    font-weight: 400;
+}
+.h2-construction{
+    font-size: 24px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+.health1-construction{
+    display: grid;
+    margin-top: -450px;
+}
+.heal1-construction{
+    display: flex;
+}
+.h3-construction{
+    font-size: 30px;
+    color: #000000;
+    font-family: 'Hammersmith One', sans-serif;
+    font-weight: 400;
+}
+.h4-construction{
+    font-size: 16px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    width: 700px;
+    margin-left: 280px;
+}
+
+.heal2-construction{
+    display: flex;
+    margin-top: -100px;
+}
+
+.h5-construction{
+    font-size: 30px;
+    color: #000000;
+    font-family: 'Hammersmith One', sans-serif;
+    font-weight: 400;
+}
+.h6-construction{
+    font-size: 16px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    width: 700px;
+    margin-left: 130px;
+}
+
+.heal3-construction{
+    display: flex;
+    margin-top: -100px;
+}
+
+.h7-construction{
+    font-size: 30px;
+    color: #000000;
+    font-family: 'Hammersmith One', sans-serif;
+    font-weight: 400;
+}
+
+.h8-construction{
+    display: grid;
+    margin-left: 270px;
+}
+
+.h9-construction{
+    font-size: 16px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+.h10-construction{
+    font-size: 16px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    margin-top: -50px;
+}
+.h11-construction{
+    font-size: 16px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    margin-top: -80px;
+}
+.h12-construction{
+    font-size: 16px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    margin-top: -110px;
+}
+
+.heal4-construction{
+    display: flex;
+    margin-top: -50px;
+}
+
+.h13-construction{
+    font-size: 30px;
+    color: #000000;
+    font-family: 'Hammersmith One', sans-serif;
+    font-weight: 400;
+}
+
+.h14-construction{
+    display: grid;
+    width: 703px;
+    margin-left: 196px;
+}
+
+.h15-construction{
+    font-size: 16px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+.h16-construction{
+    font-size: 16px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    margin-top: -40px;
+}
+.h17-construction{
+    font-size: 16px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    margin-top: -40px;
+}
+.h18-construction{
+    font-size: 16px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    margin-top: -50px;
+}
+
+ /* container2 */
+
+ .container2-construction{
+    height: 695px;
+}
+
+.centre-construction{
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    margin-top: -500px;
+}
+
+.image-construction{
+    width: 100%;
+    height: 101%;
+}
+
+.us-construction{
+    font-size: 72px;
+    color: #ffffff;
+    font-family: 'Hammersmith One', sans-serif;
+    font-weight: 400;
+}
+
+.us1-construction{
+    width: 601px;
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+}
+
+.us2-construction{
+    height: 62px;
+width: 195px;
+background-color: #ffffff;
+margin-top: 50px;
+margin-left: 200px;
+border: none;
+}
+.us2-construction a{
+    text-decoration: none;
+    height: 62px;
+width: 195px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    display: block;
+    padding-top: 18px;
+}
+
+.us2-construction:hover{
+    background-color: rgb(26, 26, 26);
+    color: #ffffff;
+    
+}
+.us2-construction a:hover{
+    color: #ffffff;
+    font-weight: 500;
+}

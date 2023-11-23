@@ -1,0 +1,256 @@
+ /*---Header---*/
+ .header-service {
+    height: 589px;
+    width: 1517px;
+    background: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/stornowayj2oil/services-A3QyBgglPrso0Vbv.png);
+    background-size: 1517px;
+
+}
+.header-service .heading-service{
+    padding-left: 150px;
+padding-top: 400px;
+color: #ffffff;
+font-size: 104px;
+font-family: 'Hammersmith One', sans-serif;
+font-weight: 400;
+}
+
+/* main */
+.container1-service{
+    height: 2384px;
+    display: grid;
+    padding-top: 200px;
+padding-left: 150px;
+}
+
+.one{
+    width: 975px;
+}
+.one span{
+    color: #000000;
+    font-size: 30px;
+    font-family: 'Hammersmith One', sans-serif;
+    font-weight: 400;
+}
+
+.two{
+    display: flex;
+    margin-top: 50px;
+}
+
+.tw11{
+    width: 503px;
+    height: 368px;
+}
+
+.tw2{
+    display: grid;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.tw21{
+    font-size: 72px;
+    color: #000000;
+    font-family: 'Hammersmith One', sans-serif;
+    font-weight: 400;
+}
+
+.tw22{
+    font-size: 30px;
+    color: #000000;
+    font-family: 'Hammersmith One', sans-serif;
+    font-weight: 400;
+    margin-top: -105px;
+}
+
+.tw23{
+    font-size: 16px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    width: 485px;
+    margin-top: -165px;
+}
+
+.three{
+    display: flex;
+    margin-top: -30px;
+}
+
+.th11{
+    width: 503px;
+    height: 368px;
+}
+
+.th2{
+    display: grid;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.th21{
+    font-size: 72px;
+    color: #000000;
+    font-family: 'Hammersmith One', sans-serif;
+    font-weight: 400;
+}
+
+.th22{
+    font-size: 30px;
+    color: #000000;
+    font-family: 'Hammersmith One', sans-serif;
+    font-weight: 400;
+    margin-top: -105px;
+}
+
+.th23{
+    font-size: 16px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    width: 485px;
+    margin-top: -165px;
+}
+
+
+.four{
+    display: flex;
+    margin-top: -30px;
+}
+
+.fo11{
+    width: 503px;
+    height: 368px;
+}
+
+.fo2{
+    display: grid;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.fo21{
+    font-size: 72px;
+    color: #000000;
+    font-family: 'Hammersmith One', sans-serif;
+    font-weight: 400;
+}
+
+.fo22{
+    font-size: 30px;
+    color: #000000;
+    font-family: 'Hammersmith One', sans-serif;
+    font-weight: 400;
+    margin-top: -105px;
+}
+
+.fo23{
+    font-size: 16px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    width: 485px;
+    margin-top: -165px;
+}
+
+
+
+.five{
+    display: flex;
+    margin-top: -30px;
+}
+
+.fi11{
+    width: 503px;
+    height: 368px;
+}
+
+.fi2{
+    display: grid;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.fi21{
+    font-size: 72px;
+    color: #000000;
+    font-family: 'Hammersmith One', sans-serif;
+    font-weight: 400;
+}
+
+.fi22{
+    font-size: 30px;
+    color: #000000;
+    font-family: 'Hammersmith One', sans-serif;
+    font-weight: 400;
+    margin-top: -105px;
+}
+
+.fi23{
+    font-size: 16px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    width: 485px;
+    margin-top: -165px;
+}
+
+
+/* container2 */
+
+.container2-service{
+    height: 695px;
+}
+
+.centre-service{
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    margin-top: -500px;
+}
+
+.image-service{
+    width: 100%;
+    height: 101%;
+}
+
+.us-service{
+    font-size: 72px;
+    color: #ffffff;
+    font-family: 'Hammersmith One', sans-serif;
+    font-weight: 400;
+}
+
+.us1{
+    width: 601px;
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+}
+
+.us2{
+    height: 62px;
+width: 195px;
+background-color: #ffffff;
+margin-top: 50px;
+margin-left: 200px;
+border: none;
+}
+.us2 a{
+    text-decoration: none;
+    height: 62px;
+width: 195px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    display: block;
+    padding-top: 18px;
+}
+
+.us2:hover{
+    background-color: rgb(26, 26, 26);
+    color: #ffffff;
+    
+}
+.us2 a:hover{
+    color: #ffffff;
+    font-weight: 500;
+}

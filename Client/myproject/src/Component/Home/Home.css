@@ -1,0 +1,319 @@
+ /*---Header---*/
+ .header-home {
+    height: 740px;
+    width: 1517px;
+    background: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/stornowayj2oil/heroimage-A1aVeGeGzkheyzwj.png);
+    background-size: 1517px;
+
+}
+.header-home .heading-home{
+    text-align: center;
+padding-top: 311px;
+color: #ffffff;
+font-size: 104px;
+font-family: 'Hammersmith One', sans-serif;
+font-weight: 400;
+}
+.bt1-home{
+    margin-left: 705px;
+font-size: 16px;
+width: 205px;
+height: 62px;
+font-weight: 400;
+font-family: 'Open Sans', sans-serif;
+margin-top: 35px;
+}
+.bt1-home a{
+    color: #000000;
+    display: block;
+width: 202px;
+height: 50px;
+padding-top: 12px;
+border: none;
+
+}
+.bt1-home:hover{
+    background-color: #000000;
+    border: none;
+}
+.bt1-home a:hover{
+    color: white;
+} 
+
+
+/* main */
+.main{
+    height: 3235px;
+}
+
+/* container2 */
+.container2-home{
+height: 850px;
+background-color: #ffffff;
+padding-top: 200px;
+}
+.about-home{
+justify-content: center;
+display: grid;
+text-align: center;
+}
+.a1-home h3{
+font-size: 72px;
+font-family: 'Hammersmith One', sans-serif;
+color: #000000;
+font-weight: 400;
+width: 591px;
+}
+.a2-home p{
+font-size: 16px;
+color: #000000;
+font-family: 'Open Sans', sans-serif;
+height: 94px;
+width: 592px;
+margin-top: 30px;
+}
+
+.a3-home button{
+height: 62px;
+width: 195px;
+background-color: #000000;
+margin-top: -65px;
+}
+
+.a3-home button a{
+    text-decoration: none;
+    display: block;
+    height: 62px;
+width: 195px;
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    padding-top: 15px;
+}
+.a3-home button:hover{
+    background-color: rgb(46, 53, 56);
+}
+.a3-home{
+    margin-top: 54px;
+}
+
+
+/* container3 */
+
+.container3-home{
+height: 976px;
+background-color: #000000;
+padding-top: 150px;
+padding-left: 150px;
+padding-right: 150px;
+}
+
+.project-home{
+display: grid;
+justify-content: center;
+text-align: center;
+}
+
+.p1-home h3{
+font-size: 72px;
+font-family: 'Hammersmith One', sans-serif;
+color: #ffffff;
+font-weight: 400;
+}
+
+.p2-home{
+display: flex;
+margin-top: 85px;
+}
+
+.img1-home span{
+color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.img2-home span{
+color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.img3-home span{
+color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.p3-home{
+margin-top: 70px;
+}
+
+.p3-home button{
+height: 62px;
+width: 195px;
+background-color: #ffffff;
+}
+
+.p3-home button a{
+    text-decoration: none;
+    height: 62px;
+width: 195px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    display: block;
+    padding-top: 15px;
+}
+
+
+.container4-home{
+    height: 752px;
+    background-color: #ffffff;
+}
+.service-home{
+    display: flex;
+    justify-content: space-evenly;
+padding-top: 150px;
+}
+
+.ser1-home{
+    display: grid;
+}
+.s1-home span{
+    font-size: 72px;
+    color: #000000;
+    font-family: 'Hammersmith One', sans-serif;
+}
+
+
+.s2-home p{
+    color: #000000;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    width: 428px;
+    margin-top: 45px
+}
+
+.s3-home button{
+height: 62px;
+width: 195px;
+background-color: #000000;
+margin-top: 50px
+}
+
+.s3-home button a{
+    text-decoration: none;
+    height: 62px;
+width: 195px;
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    display: block;
+    padding-top: 15px;
+}
+.ser2-home{
+    display: grid;
+}
+.s4-home{
+    display: flex;
+}
+.s4-home h3{
+    font-size: 64px;
+    color: #000000;
+    font-weight: 500;
+    font-family: 'Hammersmith One', sans-serif;
+}
+.s4-home span{
+    font-size: 24px;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+    color: #000000;
+    margin-left: 20px;
+margin-top: 16px;
+}
+.s5-home{
+    display: flex;
+}
+.s5-home h3{
+    font-size: 64px;
+    color: #000000;
+    font-weight: 500;
+    font-family: 'Hammersmith One', sans-serif;
+}
+.s5-home span{
+    font-size: 24px;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+    color: #000000;
+    margin-left: 20px;
+margin-top: 16px;
+}
+.s6-home{
+    display: flex;
+}
+.s6-home h3{
+    font-size: 64px;
+    color: #000000;
+    font-weight: 500;
+    font-family: 'Hammersmith One', sans-serif;
+}
+.s6-home span{
+    font-size: 24px;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+    color: #000000;
+    margin-left: 20px;
+margin-top: 16px;
+}
+
+.career-home img{
+    width:100%;
+    height: 101%;
+}
+
+.cer1-home{
+    display: grid;
+    margin-top: -500px;
+margin-left: 890px;
+}
+.c1-home span{
+    font-size: 72px;
+    color: #000000;
+    font-family: 'Hammersmith One', sans-serif;
+}
+
+
+.c2-home p{
+    color: #000000;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    width: 428px;
+    margin-top: 45px
+}
+
+.c3-home button{
+height: 62px;
+width: 195px;
+background-color: #000000;
+margin-top: 50px
+}
+
+.c3-home button a{
+    text-decoration: none;
+    height: 62px;
+width: 195px;
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    display: block;
+    padding-top: 15px;
+}

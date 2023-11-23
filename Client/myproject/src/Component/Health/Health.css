@@ -1,0 +1,225 @@
+  /*---Header---*/
+  .header-health {
+    height: 223px;
+    width: 1517px;
+    background:  url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/stornowayj2oil/careers_image-A1aVe4Kez7SGOD2P.png);
+    background-size: 1517px;
+
+}
+ /* main */
+
+ .container1-health{
+    height: 1500px;
+    display: grid;
+    padding-top: 200px;
+padding-left: 150px;
+}
+.h1{
+    font-size: 48px;
+    color: #000000;
+    font-family: 'Hammersmith One', sans-serif;
+    font-weight: 400;
+}
+.h2{
+    font-size: 24px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+.health1{
+    display: grid;
+    margin-top: -450px;
+}
+.heal1{
+    display: flex;
+}
+.h3{
+    font-size: 30px;
+    color: #000000;
+    font-family: 'Hammersmith One', sans-serif;
+    font-weight: 400;
+}
+.h4{
+    font-size: 16px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    width: 700px;
+    margin-left: 280px;
+}
+
+.heal2{
+    display: flex;
+    margin-top: -100px;
+}
+
+.h5{
+    font-size: 30px;
+    color: #000000;
+    font-family: 'Hammersmith One', sans-serif;
+    font-weight: 400;
+}
+.h6{
+    font-size: 16px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    width: 700px;
+    margin-left: 130px;
+}
+
+.heal3{
+    display: flex;
+    margin-top: -100px;
+}
+
+.h7{
+    font-size: 30px;
+    color: #000000;
+    font-family: 'Hammersmith One', sans-serif;
+    font-weight: 400;
+}
+
+.h8{
+    display: grid;
+    margin-left: 270px;
+}
+
+.h9{
+    font-size: 16px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+.h10{
+    font-size: 16px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    margin-top: -50px;
+}
+.h11{
+    font-size: 16px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    margin-top: -80px;
+}
+.h12{
+    font-size: 16px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    margin-top: -110px;
+}
+
+.heal4{
+    display: flex;
+    margin-top: -50px;
+}
+
+.h13{
+    font-size: 30px;
+    color: #000000;
+    font-family: 'Hammersmith One', sans-serif;
+    font-weight: 400;
+}
+
+.h14{
+    display: grid;
+    width: 703px;
+    margin-left: 196px;
+}
+
+.h15{
+    font-size: 16px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+.h16{
+    font-size: 16px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    margin-top: -40px;
+}
+.h17{
+    font-size: 16px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    margin-top: -40px;
+}
+.h18{
+    font-size: 16px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    margin-top: -50px;
+}
+
+ /* container2 */
+
+ .container2-health{
+    height: 695px;
+}
+
+.centre-health{
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    margin-top: -500px;
+}
+
+.image-health{
+    width: 100%;
+    height: 101%;
+}
+
+.us-health{
+    font-size: 72px;
+    color: #ffffff;
+    font-family: 'Hammersmith One', sans-serif;
+    font-weight: 400;
+}
+
+.us1{
+    width: 601px;
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+}
+
+.us2{
+    height: 62px;
+width: 195px;
+background-color: #ffffff;
+margin-top: 50px;
+margin-left: 200px;
+border: none;
+}
+.us2 a{
+    text-decoration: none;
+    height: 62px;
+width: 195px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    display: block;
+    padding-top: 18px;
+}
+
+.us2:hover{
+    background-color: rgb(26, 26, 26);
+    color: #ffffff;
+    
+}
+.us2 a:hover{
+    color: #ffffff;
+    font-weight: 500;
+}
+
+
